@@ -22,3 +22,6 @@ This wetware application requires the standard installation toolkit
 - Discussion
 
 I understand that the instillation is difficult, and the tools cumbersome.  Although great progress has been made in the last 10,000 years, there is still a lot of work left to do.
+
+## License
+The content of this project is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US)
