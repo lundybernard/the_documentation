@@ -31,4 +31,4 @@ Until a better solution presents its self, I am going to cite books using [googl
 EX: [The Invention of Science](https://books.google.com/books?id=7exeBwAAQBAJ&lpg=PP1&dq=the%20invention%20of%20science&pg=PP1#v=onepage&q&f=false)
 
 note: Strip the link down to just the ID, or ID and dq=<title> so that the title is included if the link breaks.
-```https://books.google.com/books?id=7exeBwAAQBAJ&lpg=PP1&dq=the%20invention%20of%20science```
+> https://books.google.com/books?id=7exeBwAAQBAJ&lpg=PP1&dq=the%20invention%20of%20science
