@@ -13,7 +13,13 @@ On historians and their works from Herodotus (father of history) 450bce Greece t
 
 ## bibliography
 ### Introduction
-#### crash course
+
+The objective of this collection of Introductory material, is to build a decent framework laid out for understanding our history.  
+- Know what major, influential, empires dominated what regions at what time.
+- Know pivotal events, what the status-quo was before, and how it changed.
+- Know the major Players (great men), why they are remembered, and when/where they fit in space-time.
+
+#### Crash Course History:
 short (10-15 minute) youtube videos
 
 [Crash Course: World History](https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9)
