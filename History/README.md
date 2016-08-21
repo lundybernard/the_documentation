@@ -15,15 +15,19 @@ On historians and their works from Herodotus (father of history) 450bce Greece t
 ### Introduction
 #### crash course
 short (10-15 minute) youtube videos
+
 [Crash Course: World History](https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9)
 
 [Crash Course: World History 2](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNjasccl-WajpONGX3zoY4M)
 
-[Guns, Germs, and Steel](https://books.google.com/books?id=kLKTa_OeoNIC&dq=isbn:0393038912)
+[Guns, Germs, and Steel](https://books.google.com/books?id=kLKTa_OeoNIC&dq=isbn:0393038912),
 On the origins and rise of civilization.
 
-Susan Wise Bower's histories: A good survey of ancient history.  Hits the key events, but without too much depth, and does not focus solely on western history.
-[The History of the Ancient World: From the Earliest Accounts to the Fall of Rome](https://books.google.com/books?id=HmShg3dnLSMC&dq=history+of+the+ancient+world)
+#### Susan Wise Bower's histories:
+
+A good survey of ancient history.  Hits the key events, but without too much depth, and does not focus solely on western history.
+
+1. [The History of the Ancient World: From the Earliest Accounts to the Fall of Rome](https://books.google.com/books?id=HmShg3dnLSMC&dq=history+of+the+ancient+world)
 - 3600 bce - 312 ce
 - begins with the earliest accounts of each major civilization, including their mythological origins.
 - ends with:
@@ -31,7 +35,7 @@ Susan Wise Bower's histories: A good survey of ancient history.  Hits the key ev
     - China: Han Dynasty replaced by [3 kingdoms](https://en.wikipedia.org/wiki/Three_Kingdoms) (Wei, Wu, Shu)
     - India: Fall of the Mauryan empire
 
-[The History of the Medieval World: From the Conversion of Constantine to the First Crusade](https://books.google.com/books?id=1u2oP2RihIgC)
+2. [The History of the Medieval World: From the Conversion of Constantine to the First Crusade](https://books.google.com/books?id=1u2oP2RihIgC)
 - 312 ce - 1129 ce
 - Ends with:
     - West: Great Schism, The first crusade
@@ -39,7 +43,7 @@ Susan Wise Bower's histories: A good survey of ancient history.  Hits the key ev
     - China: Fall of the Song
     - India: Chola dominate the South
 
-[The History of the Renaissance World: From the Rediscovery of Aristotle to the Conquest of Constantinople](https://books.google.com/books?id=eVxkBwAAQBAJ)
+2. [The History of the Renaissance World: From the Rediscovery of Aristotle to the Conquest of Constantinople](https://books.google.com/books?id=eVxkBwAAQBAJ)
 - 1100 ce - 1453 ce
 - Ends with:
     - Byzantium: The Fall of Constantinople
