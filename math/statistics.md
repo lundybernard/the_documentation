@@ -32,5 +32,18 @@ P(A):
 
 Is the number of Events (A), divided by the number of possible events (S)
 
+```
+P(A) = A.count() / S.count()
+```
+
+
 ### Counting
 #### The Multiplication Rule:
+1. Given an experiment with n_1 possible results,
+and a subsequent experiment with n_2 possible results for each result in n_1
+for each n_r results for the r^th experiment
+there are
+```
+n_1 * n_2 * ... * n_r
+```
+possible results, for the sequence of experiments.
