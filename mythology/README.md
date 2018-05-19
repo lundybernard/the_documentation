@@ -10,3 +10,12 @@
 [Metaphors We Live By](https://books.google.com/books?id=iyZgQgAACAAJ)
 
 [Myth and Meaning](https://books.google.com/books?id=R-e0AAAAIAAJ)
+1. The Meeting of Myth and Science
+- 'Primitive' Thinking and the 'Civilized' Mind
+- Hairlips and Twins: The splitting of a Myth
+- When Myth Becomes History
+    - In our societies, history has replaced mythology, and fulfills the same function
+
+- Myth and Music
+    - on music, ex. the Ring cycle, taking over the roll of myth
+    - Similarities between musical and mythical structures, or language and musical structure.
