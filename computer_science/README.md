@@ -9,6 +9,8 @@
 
 [Design Patterns](https://books.google.com/books?id=6oHuKQe3TjQC)
 
+[Big Ball of Mud](http://www.laputan.org/mud/)
+
 # Algorithms
 ## Big O Notation
 ## Sorting
